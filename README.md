@@ -44,6 +44,7 @@ Por fim, após o comando tenha finalizado, abra o emulador do android studio ou 
  <br />
  <sub><b>Leonardo Henrique de Andrade</b></sub></a> <a href="https://www.linkedin.com/in/leonardohandrade/" title="Linkedin" target="_blank">🚀</a>
  <br />
+ <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardohandrade/)](https://www.linkedin.com/in/leonardohandrade/) 
 [![Gmail Badge](https://img.shields.io/badge/-danielmelonari@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardoh.deandrade@gmail.com)](mailto:leonardoh.deandrade@gmail.com)
